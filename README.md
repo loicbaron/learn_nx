@@ -1,5 +1,5 @@
-# learn_nx
-Learning Nx Monorepo
+# Nx Monorepo
+Example of Nx Monorepo
 
 ## Install Nx globally
 ```
